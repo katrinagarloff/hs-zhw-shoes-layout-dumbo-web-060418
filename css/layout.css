@@ -25,12 +25,17 @@
 .feat-brands {
   float: left;
   width: 66%;
+  margin:0;
+  padding:0;
+  border:0;
 }
 
 .arch_list {
   float: right;
   width: 33%;
- height: 100px;
+margin:0;
+  padding:0;
+  border:0;
 }
 
 /* Posititoning Classes */
