@@ -23,11 +23,11 @@
 }
 
 .feat-brands {
-  
+  float: left;
 }
 
 .arch_list {
-  
+  float: right;
 }
 
 /* Posititoning Classes */
