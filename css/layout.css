@@ -40,9 +40,11 @@ margin:10px;
 
 #ladybug{
   float: left;
+  width: 50%;
 }
 #skater{
   float: right;
+  width: 50%;
 }
 
 /* Posititoning Classes */
